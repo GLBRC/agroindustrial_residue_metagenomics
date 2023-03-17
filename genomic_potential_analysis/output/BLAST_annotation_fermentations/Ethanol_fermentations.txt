@@ -1,0 +1,9 @@
+Ethanol_fermentation_pathways	Chain-elongation
+Zmobilis	0
+Nstercoris	0
+Melsdenii	0
+Ckluyveri	1
+Efaecalis	0
+Blongum	0
+Fsuccinogenes	0
+Lhilgardii	0

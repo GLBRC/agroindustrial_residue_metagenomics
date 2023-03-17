@@ -1,0 +1,229 @@
+Reaction ID	Reaction Name	Enzyme comission number	Ferredoxin oxidizing	UniProt ID	UniProt name	
+EBACD1	*Electron Bifurcating Acyl-CoA Dehydrogenase (C4)		Yes	A0A6L5GPD6	Electron transfer flavoprotein subunit beta/FixA family protein	
+EBACD2	*Electron Bifurcating Acyl-CoA Dehydrogenase (C6)		Yes	A0A6L5GPD6	Electron transfer flavoprotein subunit beta/FixA family protein	
+EBACD3	*Electron Bifurcating Acyl-CoA Dehydrogenase (C8)		Yes	A0A6L5GPD6	Electron transfer flavoprotein subunit beta/FixA family protein	
+EBVCD	*Electron Bifurcating Acyl-CoA dehydrogenase (pentanoyl-CoA)		Yes	A0A6L5GPD6	Electron transfer flavoprotein subunit beta/FixA family protein	
+EBVCD2	*Electron Bifurcating Acyl-CoA dehydrogenase (heptanoyl-CoA)		Yes	A0A6L5GPD6	Electron transfer flavoprotein subunit beta/FixA family protein	
+EBACD1	*Electron Bifurcating Acyl-CoA Dehydrogenase (C4)		Yes	A0A6L5GQN4	Electron transfer flavoprotein subunit alpha/FixB family protein	
+EBACD2	*Electron Bifurcating Acyl-CoA Dehydrogenase (C6)		Yes	A0A6L5GQN4	Electron transfer flavoprotein subunit alpha/FixB family protein	
+EBACD3	*Electron Bifurcating Acyl-CoA Dehydrogenase (C8)		Yes	A0A6L5GQN4	Electron transfer flavoprotein subunit alpha/FixB family protein	
+EBVCD	*Electron Bifurcating Acyl-CoA dehydrogenase (pentanoyl-CoA)		Yes	A0A6L5GQN4	Electron transfer flavoprotein subunit alpha/FixB family protein	
+EBVCD2	*Electron Bifurcating Acyl-CoA dehydrogenase (heptanoyl-CoA)		Yes	A0A6L5GQN4	Electron transfer flavoprotein subunit alpha/FixB family protein	
+HACT	*Hydroxy-Acyl-CoA Thioesterase			A0A6N7IY41	Thioesterase	
+ECH	Energy conserving hydrogenase		Yes	A0A6N7IYC5	NADH-quinone oxidoreductase subunit NuoB (EC 1.6.5.11)	
+ECH	Energy conserving hydrogenase		Yes	A0A6N7IYC8	NADH-quinone oxidoreductase subunit C	
+ECH	Energy conserving hydrogenase		Yes	A0A6N7IYD6	NADH-quinone oxidoreductase subunit D	
+RNF1	*Ferredoxin:NAD oxidoreductase (2 protons translocated)		Yes	A0A6N7IZ71	Ion-translocating oxidoreductase complex subunit B (EC 7.-.-.-) (Rnf electron transport complex subunit B)	
+RNF1	*Ferredoxin:NAD oxidoreductase (2 protons translocated)		Yes	A0A6N7IZA1	Ion-translocating oxidoreductase complex subunit E (EC 7.-.-.-) (Rnf electron transport complex subunit E)	
+RNF1	*Ferredoxin:NAD oxidoreductase (2 protons translocated)		Yes	A0A6N7IZF8	Ion-translocating oxidoreductase complex subunit D (EC 7.-.-.-) (Rnf electron transport complex subunit D)	
+ECH	Energy conserving hydrogenase		Yes	A0A6N7J003	4Fe-4S dicluster domain-containing protein	
+ECH	Energy conserving hydrogenase		Yes	A0A6N7J0I1	NADH-quinone oxidoreductase subunit H	
+RNF1	*Ferredoxin:NAD oxidoreductase (2 protons translocated)		Yes	A0A6N7J0N4	Ion-translocating oxidoreductase complex subunit G (EC 7.-.-.-) (Rnf electron transport complex subunit G)	
+RNF1	*Ferredoxin:NAD oxidoreductase (2 protons translocated)		Yes	A0A6N7J0S6	Ion-translocating oxidoreductase complex subunit A (EC 7.-.-.-) (Rnf electron transport complex subunit A)	
+RNF1	*Ferredoxin:NAD oxidoreductase (2 protons translocated)		Yes	A0A6N7J0W2	Ion-translocating oxidoreductase complex subunit C (EC 7.-.-.-) (Rnf electron transport complex subunit C)	
+ECH	Energy conserving hydrogenase		Yes	A0A6N7J178	NADH-quinone oxidoreductase subunit L	
+EBACD1	*Electron Bifurcating Acyl-CoA Dehydrogenase (C4)		Yes	A0A6N7J2R9	Acyl-CoA dehydrogenase	
+EBACD2	*Electron Bifurcating Acyl-CoA Dehydrogenase (C6)		Yes	A0A6N7J2R9	Acyl-CoA dehydrogenase	
+EBACD3	*Electron Bifurcating Acyl-CoA Dehydrogenase (C8)		Yes	A0A6N7J2R9	Acyl-CoA dehydrogenase	
+EBVCD	*Electron Bifurcating Acyl-CoA dehydrogenase (pentanoyl-CoA)		Yes	A0A6N7J2R9	Acyl-CoA dehydrogenase	
+EBVCD2	*Electron Bifurcating Acyl-CoA dehydrogenase (heptanoyl-CoA)		Yes	A0A6N7J2R9	Acyl-CoA dehydrogenase	
+LACpts	Lactose transport via PEP:Pyr PTS			P0A283	PTS system glucose-specific EIIA component (EIIA-Glc) (EIII-Glc) (Glucose-specific phosphotransferase enzyme IIA component)	
+LACpts	Lactose transport via PEP:Pyr PTS			P11162	PTS system lactose-specific EIICB component (EIICB-Lac) (EII-Lac) [Includes: PTS system lactose-specific EIIC component (Lactose permease IIC component); PTS system lactose-specific EIIB component (EC 2.7.1.207) (Lactose-specific phosphotransferase enzyme IIB component)]	
+LCTSGALa	Lactose:galactose antiporter			P23936	Lactose permease (Lactose transport protein) (Lactose-proton symporter) [Includes: Putative phosphotransferase enzyme IIA component (EC 2.7.1.-) (Putative PTS system EIIA component)]	
+LCTSt	Lactose transport via proton symport			P23936	Lactose permease (Lactose transport protein) (Lactose-proton symporter) [Includes: Putative phosphotransferase enzyme IIA component (EC 2.7.1.-) (Putative PTS system EIIA component)]	
+GHBCOAT	4-hydroxybutyrate coenzyme a transferase			P38942	4-hydroxybutyrate coenzyme A transferase (EC 2.8.3.-)	
+GALt2	D galactose transport via proton symport			P0AEP1	Galactose-proton symporter (Galactose transporter)	
+LCTSt	Lactose transport via proton symport			P02920	Lactose permease (Lactose-proton symport)	
+ALCD2x	Alcohol dehydrogenase (ethanol)	1.1.1.1		P39451	"Alcohol dehydrogenase, propanol-preferring (EC 1.1.1.1)"	
+HACD1	3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA)	1.1.1.157		A0A6N7J1B3	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)	
+HACD1a	3-hydroxybutyryl-CoA dehydrogenase (NADP)	1.1.1.157		A0A6N7J1B3	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)	
+HACD2	3-hydroxyacyl-CoA dehydrogenase (3-oxohexanoyl-CoA)	1.1.1.157		A0A6N7J1B3	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)	
+HACD3	3-hydroxyacyl-CoA dehydrogenase (3-oxooctanoyl-CoA)	1.1.1.157		A0A6N7J1B3	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)	
+HVCD	3-hydroxyacyl-CoA dehydrogenase (3-oxovaleryl-CoA)	1.1.1.157		A0A6N7J1B3	3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)	
+LDH-D	D-lactate dehydrogenase	1.1.1.28		P52643	D-lactate dehydrogenase (D-LDH) (EC 1.1.1.28) (Fermentative lactate dehydrogenase)	
+GND_nad	Phosphogluconate dehydrogenase (NAD)	1.1.1.343		G5EBD7	"6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating (6PGDH) (EC 1.1.1.343)"	
+G6PDH2r	Glucose 6-phosphate dehydrogenase	1.1.1.363 or 1.1.1.49		P0AC53	Glucose-6-phosphate 1-dehydrogenase (G6PD) (EC 1.1.1.49) [Cleaved into: Extracellular death factor (EDF)]	
+MDH	Malate dehydrogenase	1.1.1.37 or 1.1.1.38		P61889	Malate dehydrogenase (EC 1.1.1.37)	
+ME1	Malic Enzyme (NAD)	1.1.1.39		P26616	NAD-dependent malic enzyme (NAD-ME) (EC 1.1.1.38)	
+ME2	Malic enzyme (NADP)	1.1.1.40		P76558	NADP-dependent malic enzyme (NADP-ME) (EC 1.1.1.40)	
+ICDHx	Isocitrate dehydrogenase (NAD)	1.1.1.41 or 1.1.1.42		P08200	Isocitrate dehydrogenase [NADP] (IDH) (EC 1.1.1.42) (IDP) (NADP(+)-specific ICDH) (Oxalosuccinate decarboxylase)	
+ICDHyr	Isocitrate dehydrogenase (NADP)	1.1.1.42		P08200	Isocitrate dehydrogenase [NADP] (IDH) (EC 1.1.1.42) (IDP) (NADP(+)-specific ICDH) (Oxalosuccinate decarboxylase)	
+GND	Phosphogluconate dehydrogenase	1.1.1.44		P00350	"6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)"	
+GHBDHx	Gamma-hydroxybutyrate dehydrogenase (NADH)	1.1.1.61		P0A9V8	3-sulfolactaldehyde reductase (SLA reductase) (EC 1.1.1.373) (4-hydroxybutyrate dehydrogenase) (EC 1.1.1.61) (Gamma-hydroxybutyrate dehydrogenase) (GHBDH) (Succinic semialdehyde reductase) (SSA reductase)	
+G3PD1	Glycerol-3-phosphate dehydrogenase (NAD)	1.1.1.94		P0A6S7	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94) (NAD(P)H-dependent glycerol-3-phosphate dehydrogenase)	
+G3PD2	Glycerol-3-phosphate dehydrogenase (NADP)	1.1.1.94		P0A6S7	Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94) (NAD(P)H-dependent glycerol-3-phosphate dehydrogenase)	
+HYD1	"(FeFe)-hydrogenase, cytoplasm"	1.12.7.2	Yes	A0A6L5GP40	4Fe-4S dicluster domain-containing protein	
+FNOR	Ferredoxin---NADP+ reductase	1.18.1.2		P28861	Flavodoxin/ferredoxin--NADP reductase (EC 1.18.1.2) (EC 1.19.1.1) (Ferredoxin (flavodoxin):NADP(+) oxidoreductase) (Ferredoxin--NADP reductase) (FNR) (Flavodoxin--NADP reductase) (FLDR) (Methyl viologen resistance protein A) (dA1)	
+ACALD	Acetaldehyde dehydrogenase (acetylating)	1.2.1.10		P77580	Acetaldehyde dehydrogenase (EC 1.2.1.10) (Acetaldehyde dehydrogenase [acetylating])	
+PDH	Pyruvate dehdyrogenase	1.2.1.104		P0A9P0	Dihydrolipoyl dehydrogenase (EC 1.8.1.4) (Dihydrolipoamide dehydrogenase) (E3 component of pyruvate and 2-oxoglutarate dehydrogenases complexes) (Glycine cleavage system L protein)	
+PDH	Pyruvate dehdyrogenase	1.2.1.104		P0AFG8	Pyruvate dehydrogenase E1 component (PDH E1 component) (EC 1.2.4.1)	
+PDH	Pyruvate dehdyrogenase	1.2.1.104		P06959	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12) (Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex) (E2)	
+AKGDc	2-Oxoglutarate dehydrogenase	1.2.1.105		P0AFG3	2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2) (Alpha-ketoglutarate dehydrogenase)	 
+AKGDc	2-Oxoglutarate dehydrogenase	1.2.1.105		P0AFG6	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) (2-oxoglutarate dehydrogenase complex component E2) (OGDC-E2) (Dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase complex)	
+AKGDc	2-Oxoglutarate dehydrogenase	1.2.1.105		P0A9P0	Dihydrolipoyl dehydrogenase (EC 1.8.1.4) (Dihydrolipoamide dehydrogenase) (E3 component of pyruvate and 2-oxoglutarate dehydrogenases complexes) (Glycine cleavage system L protein)	
+GAPD	Glyceraldehyde-3-phosphate dehydrogenase	1.2.1.12		P0A9B2	Glyceraldehyde-3-phosphate dehydrogenase A (GAPDH-A) (EC 1.2.1.12) (NAD-dependent glyceraldehyde-3-phosphate dehydrogenase)	
+LCADi	Lactaldehyde dehydrogenase	1.2.1.22		P25553	Lactaldehyde dehydrogenase (EC 1.2.1.22) (Aldehyde dehydrogenase A) (Glycolaldehyde dehydrogenase) (EC 1.2.1.21)	
+SSALx	Succinate-semialdehyde dehydrogenase (NAD)	1.2.1.24 or 1.2.1.16 or 1.2.1.79		P76149	Succinate semialdehyde dehydrogenase [NAD(P)+] Sad (SSADH) (SSDH) (EC 1.2.1.16)	
+ALDD2x	"Aldehyde dehydrogenase (acetaldehyde, NAD)"	1.2.1.3		P77445	Acetaldehyde dehydrogenase (acetylating) EutE (EC 1.2.1.10) (Ethanolamine utilization protein EutE)	
+ALDD1	Aldehyde dehydrogenase formaldehyde NAD	1.2.1.46		P46154	Glutathione-independent formaldehyde dehydrogenase (FALDH) (FDH) (EC 1.2.1.46) (Formaldehyde dismutase) (EC 1.2.98.1)	
+SSALy	Succinate-semialdehyde dehydrogenase (NADP)	1.2.1.76 or 1.2.1.16 or 1.2.1.79		P25526	Succinate-semialdehyde dehydrogenase [NADP(+)] GabD (SSDH) (EC 1.2.1.79) (Glutarate-semialdehyde dehydrogenase) (EC 1.2.1.-)	
+PFOR	*Pyruvate flavodoxin oxidoreductase	1.2.7.1		P94692	Pyruvate:ferredoxin oxidoreductase (PFOR) (POR) (EC 1.2.7.1) (Pyruvate synthase)	
+OORr	2-oxoglutarate ferredoxin oxidoreductase	1.2.7.3	Yes	O53181	2-oxoglutarate oxidoreductase subunit KorB (EC 1.2.7.3) (Alpha-ketoglutarate oxidoreductase subunit beta) (KG oxidoreductase subunit beta) (KGO subunit beta) (KOR subunit beta)	
+OORr	2-oxoglutarate ferredoxin oxidoreductase	1.2.7.3	Yes	O53182	2-oxoglutarate oxidoreductase subunit KorA (EC 1.2.7.3) (Alpha-ketoglutarate oxidoreductase subunit alpha/gamma) (KG oxidoreductase subunit alpha/gamma) (KGO subunit alpha/gamma) (KOR subunit alpha/gamma)	
+CODH4	Carbon monoxide dehydrogenase / acetyl-CoA synthase 2	1.2.7.4		P31896	Carbon monoxide dehydrogenase (CODH) (EC 1.2.7.4)	
+EB-iLDH-D	Electron bifurcating lactate dehydrogenase	1.3.1.110	Yes	A0A6L5GPD6	Electron transfer flavoprotein subunit beta/FixA family protein	
+EB-iLDH-D	Electron bifurcating lactate dehydrogenase	1.3.1.110	Yes	A0A6L5GQN4	Electron transfer flavoprotein subunit alpha/FixB family protein	
+EB-iLDH-D	Electron bifurcating lactate dehydrogenase	1.3.1.110	Yes	A0A6L5GQT1	FAD-binding oxidoreductase	
+ACR	Acryloyl-CoA reductase	1.3.1.95		P26646	Probable acrylyl-CoA reductase AcuI (EC 1.3.1.84) (Acryloyl-coenzyme A reductase AcuI)	
+SUCD1	Succinate dehydrogenase	1.3.5.1 or 1.3.5.4		P0AC41	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)	
+SUCD1	Succinate dehydrogenase	1.3.5.1 or 1.3.5.4		P07014	Succinate dehydrogenase iron-sulfur subunit (EC 1.3.5.1)	
+SUCD1	Succinate dehydrogenase	1.3.5.1 or 1.3.5.4		P69054	Succinate dehydrogenase cytochrome b556 subunit (Cytochrome b-556)	
+SUCD1	Succinate dehydrogenase	1.3.5.1 or 1.3.5.4		P0AC44	Succinate dehydrogenase hydrophobic membrane anchor subunit	
+ACOAD1	Acyl-CoA dehydrogenase (butanoyl-CoA)	1.3.8.7		A0A6N7J2R9	Acyl-CoA dehydrogenase	
+ACOAD2	Acyl-CoA dehydrogenase (hexanoyl-CoA)	1.3.8.8		A0A6N7J2R9	Acyl-CoA dehydrogenase	
+ACOAD3	Acyl-CoA dehydrogenase (octanoyl-CoA)	1.3.8.8		A0A6N7J2R9	Acyl-CoA dehydrogenase	
+VCOAD	Acyl-CoA dehydrogenase (pentanoyl-CoA)	1.3.8.8		A0A6N7J2R9	Acyl-CoA dehydrogenase	
+VCOAD2	Acyl-CoA dehydrogenase (heptanoyl-CoA)	1.3.8.8		A0A6N7J2R9	Acyl-CoA dehydrogenase	
+MTHFR2	"5,10-methylenetetrahydrofolate reductase (NADH)"	1.5.1.20		P0AEZ1	"5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)"	
+FMNRy_1	FMN reductase NADPH dependent	1.5.1.39		P80644	FMN reductase (NADPH) (EC 1.5.1.38) (FMN reductase) (Sulfate starvation-induced protein 4) (SSI4)	
+FMNRx	FMN reductase	1.5.1.42		P75893	FMN reductase (NADH) RutF (EC 1.5.1.42) (FMN reductase) (NADH-flavin reductase RutF) (NADH:flavin oxidoreductase)	
+MTHFD	Methylenetetrahydrofolate dehydrogenase (NADP)	1.5.1.5		P24186	Bifunctional protein FolD [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)]	
+THD2	NAD(P) transhydrogenase	1.6.1.3 or 1.6.1.2		P27306	Soluble pyridine nucleotide transhydrogenase (STH) (EC 1.6.1.1) (NAD(P)(+) transhydrogenase [B-specific])	
+METR	Methyltetrahydrofolate:corrinoid/iron-sulfur protein methyltransferase (MeTr)	2.1.1.258		Q46389	5-methyltetrahydrofolate:corrinoid/iron-sulfur protein co-methyltransferase (EC 2.1.1.258) (5-methyltetrahydrofolate corrinoid/iron sulfur protein methyltransferase) (MeTr)	
+MCC	Methylmalonyl-CoA Carboxyltransferase	2.1.3.1		P02904	"Methylmalonyl-CoA carboxyltransferase 1.3S subunit (EC 2.1.3.1) (Biotin carboxyl carrier protein of transcarboxylase) (Transcarboxylase, 1.3S subunit)"	
+MCC	Methylmalonyl-CoA Carboxyltransferase	2.1.3.1		Q70AC7	Methylmalonyl-CoA carboxyltransferase 5S subunit (EC 2.1.3.1) (Transcarboxylase 5S subunit)	
+MCC	Methylmalonyl-CoA Carboxyltransferase	2.1.3.1		Q8GBW6	Methylmalonyl-CoA carboxyltransferase 12S subunit (EC 2.1.3.1) (Transcarboxylase 12S subunit)	
+TKT1	Transketolase 1	2.2.1.1		P27302	Transketolase 1 (TK 1) (EC 2.2.1.1)	
+TKT2	Transketolase 2	2.2.1.1		P33570	Transketolase 2 (TK 2) (EC 2.2.1.1)	
+TALA	Transaldolase	2.2.1.2		P0A867	Transaldolase A (EC 2.2.1.2)	
+ACACT3	Hexanoyl-CoA:acetyl-CoA C-acyltransferase	2.3.1.16		A0A6N7J2P1	Acetyl-CoA C-acetyltransferase	
+VCACT	Acetyl-CoA C-acyltransferase (3-oxovaleryl-CoA)	2.3.1.16		A0A6N7J2P1	Acetyl-CoA C-acetyltransferase	
+*ACSWL	Acetyl-CoA synthase	2.3.1.169		P27550	Acetyl-coenzyme A synthetase (AcCoA synthetase) (Acs) (EC 6.2.1.1) (Acetate--CoA ligase) (Acyl-activating enzyme)	
+PFL	Pyruvate formate lyase	2.3.1.54		P09373	Formate acetyltransferase 1 (EC 2.3.1.54) (Pyruvate formate-lyase 1)	
+PTAr	Phosphotransacetylase	2.3.1.8		P0A9M8	Phosphate acetyltransferase (EC 2.3.1.8) (Phosphotransacetylase)	
+ACACT1r	Acetyl-CoA C-acetyltransferase	2.3.1.9		A0A6N7J2P1	Acetyl-CoA C-acetyltransferase	
+ACACT2	Butanoyl-CoA:acetyl-CoA C-butanoyltransferase	2.3.1.9 or 2.3.1.16		A0A6N7J2P1	Acetyl-CoA C-acetyltransferase	
+VCACT2	Acetyl-CoA C-acyltransferase (3-oxoheptanoyl-CoA)	2.3.1.9 or 2.3.1.16		A0A6N7J2P1	Acetyl-CoA C-acetyltransferase	
+CS	Citrate synthase	2.3.3.1		P0ABH7	Citrate synthase (EC 2.3.3.16)	
+ACITL	ATP Citrate Lyase	2.3.3.8		P69330	Citrate lyase acyl carrier protein (Citrate lyase gamma chain)	
+ACITL	ATP Citrate Lyase	2.3.3.8		P75726	Citrate lyase alpha chain (Citrase alpha chain) (EC 4.1.3.6) (Citrate (pro-3S)-lyase alpha chain) (Citrate CoA-transferase subunit) (EC 2.8.3.10)	
+ACITL	ATP Citrate Lyase	2.3.3.8		P0A9I1	Citrate lyase subunit beta (Citrase beta chain) (EC 4.1.3.6) (Citrate (pro-3S)-lyase subunit beta) (Citryl-CoA lyase subunit) (EC 4.1.3.34)	
+HAO_MALS	Malate synthase	2.3.3.9		P08997	Malate synthase A (MSA) (EC 2.3.3.9)	
+ASPTA	Aspartate transaminase	2.6.1.1		P00509	Aspartate aminotransferase (AspAT) (EC 2.6.1.1) (Transaminase A)	
+GLUK	Glucokinase	2.7.1.2		P0A6V8	Glucokinase (EC 2.7.1.2) (Glucose kinase)	
+PPGPT	Phosphoenolpyruvate:glycerone phosphotransferase	2.7.1.121		P76015	"PEP-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK (EC 2.7.1.121)"	
+PPGPT	Phosphoenolpyruvate:glycerone phosphotransferase	2.7.1.121		P76014	"PEP-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL (EC 2.7.1.121)"	
+DHAPT	Dihydroxyacetone phosphotransferase	2.7.1.121		P37349	"PEP-dependent dihydroxyacetone kinase, phosphoryl donor subunit DhaM (EC 2.7.1.121) (Dihydroxyacetone kinase subunit M)"	
+PPGPT	Phosphoenolpyruvate:glycerone phosphotransferase	2.7.1.121		P37349	"PEP-dependent dihydroxyacetone kinase, phosphoryl donor subunit DhaM (EC 2.7.1.121) (Dihydroxyacetone kinase subunit M)"	
+T6PK	Tagatose-6-phosphate kinase	2.7.1.144		P9WID7	ATP-dependent 6-phosphofructokinase (ATP-PFK) (Phosphofructokinase) (EC 2.7.1.11) (Phosphofructokinase A) (Phosphohexokinase) (Tagatose-6-phosphate kinase) (EC 2.7.1.144)	
+T6PK	Tagatose-6-phosphate kinase	2.7.1.144		P06999	ATP-dependent 6-phosphofructokinase isozyme 2 (ATP-PFK 2) (Phosphofructokinase 2) (EC 2.7.1.11) (6-phosphofructokinase isozyme II) (Phosphohexokinase 2)	
+DRBK	Deoxyribokinase	2.7.1.15		P0A9J6	Ribokinase (RK) (EC 2.7.1.15)	
+RBK	Ribokinase	2.7.1.15		P0A9J6	Ribokinase (RK) (EC 2.7.1.15)	
+XYLK	Xylulokinase	2.7.1.17		P09099	Xylulose kinase (XK) (Xylulokinase) (EC 2.7.1.17) (1-deoxy-D-xylulokinase) (EC 2.7.1.-)	
+NADK	NAD kinase	2.7.1.23		P0A7B3	NAD kinase (EC 2.7.1.23) (ATP-dependent NAD kinase)	
+DHAK	Dihydroxyacetone kinase	2.7.1.29		P76015	"PEP-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK (EC 2.7.1.121)"	
+DHAK	Dihydroxyacetone kinase	2.7.1.29		P76014	"PEP-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL (EC 2.7.1.121)"	
+GLYK	Glycerol kinase	2.7.1.30		P0A6F3	Glycerol kinase (EC 2.7.1.30) (ATP:glycerol 3-phosphotransferase) (Glycerokinase) (GK)	
+PYK	Pyruvate kinase	2.7.1.40		P0AD61	Pyruvate kinase I (EC 2.7.1.40) (PK-1)	
+GALK2	Galactokinase	2.7.1.6		P0A6T3	Galactokinase (EC 2.7.1.6) (Galactose kinase)	
+PFK	Phosphofructokinase	2.7.1.90		P0A796	ATP-dependent 6-phosphofructokinase isozyme 1 (ATP-PFK 1) (Phosphofructokinase 1) (EC 2.7.1.11) (6-phosphofructokinase isozyme I) (Phosphohexokinase 1) (Sedoheptulose-7-phosphate kinase)	
+ACKr	Acetate kinase	2.7.2.1		P0A6A3	Acetate kinase (EC 2.7.2.1) (Acetokinase)	
+PGK	Phosphoglycerate kinase	2.7.2.3		P0A799	Phosphoglycerate kinase (EC 2.7.2.3)	
+GLCpts	D-glucose transport via PEP:Pyr PTS	2.7.3.9 and 2.7.1.199		P69783	PTS system glucose-specific EIIA component (EIIA-Glc) (EIII-Glc) (Glucose-specific phosphotransferase enzyme IIA component)	
+GLCpts	D-glucose transport via PEP:Pyr PTS	2.7.3.9 and 2.7.1.199		P69786	PTS system glucose-specific EIICB component (EIICB-Glc) (EII-Glc) [Includes: Glucose permease IIC component (PTS system glucose-specific EIIC component); Glucose-specific phosphotransferase enzyme IIB component (EC 2.7.1.199) (PTS system glucose-specific EIIB component)]	
+ADK1	Adenylate kinase	2.7.4.3		P69441	Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate monophosphate kinase)	
+UGLT	UDPglucose--hexose-1-phosphate uridylyltransferase	2.7.7.12		P09148	Galactose-1-phosphate uridylyltransferase (Gal-1-P uridylyltransferase) (EC 2.7.7.12) (UDP-glucose--hexose-1-phosphate uridylyltransferase)	
+PPS	Phosphoenolpyruvate synthase	2.7.9.2		P23538	"Phosphoenolpyruvate synthase (PEP synthase) (EC 2.7.9.2) (Pyruvate, water dikinase)"	
+PCT	Propionate CoA Transferase	2.8.3.1		B3EY95	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18) (Succinyl-coenzyme A (CoA):acetate CoA-transferase) (SCACT)	
+SUCOAACTr	Succinyl-CoA:acetate CoA transferase	2.8.3.18		B3EY95	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18) (Succinyl-coenzyme A (CoA):acetate CoA-transferase) (SCACT)	
+PPCSCT	Propanoyl-CoA: succinate CoA-transferase	2.8.3.27		P52043	Propionyl-CoA:succinate CoA transferase (EC 2.8.3.-)	
+CoATC4	*CoA Transferase (C4:0-C2:0)	2.8.3.8		A0A6N7J161	Butyryl-CoA:acetate CoA-transferase (Butyryl-CoA CoA-transferase) (EC 2.8.3.-)	
+CoATC5	*CoA Transferase (C5:0-C2:0)	2.8.3.8		A0A6N7J161	Butyryl-CoA:acetate CoA-transferase (Butyryl-CoA CoA-transferase) (EC 2.8.3.-)	
+CoATC6	*CoA Transferase (C6:0-C2:0)	2.8.3.8		A0A6N7J161	Butyryl-CoA:acetate CoA-transferase (Butyryl-CoA CoA-transferase) (EC 2.8.3.-)	
+CoATC7	*CoA Transferase (C7:0-C2:0)	2.8.3.8		A0A6N7J161	Butyryl-CoA:acetate CoA-transferase (Butyryl-CoA CoA-transferase) (EC 2.8.3.-)	
+CoATC8	CoA Transferase (C8:0-C2:0)	2.8.3.8		A0A6N7J161	Butyryl-CoA:acetate CoA-transferase (Butyryl-CoA CoA-transferase) (EC 2.8.3.-)	
+ACH-C6	*Acyl-CoA Hydrolase (C6:0)	3.1.2.20		P0A8Z0	Acyl-CoA thioester hydrolase YciA (EC 3.1.2.-) (Protein P14)	
+ACH-C7	*Acyl-CoA Hydrolase (C7:0)	3.1.2.20		P0A8Z0	Acyl-CoA thioester hydrolase YciA (EC 3.1.2.-) (Protein P14)	
+ACH-C8	*Acyl-CoA Hydrolase (C8:0)	3.1.2.20		P0A8Z0	Acyl-CoA thioester hydrolase YciA (EC 3.1.2.-) (Protein P14)	
+ACHC4	*Acyl-CoA Hydrolase (C4:0)	3.1.2.20		P0A8Z0	Acyl-CoA thioester hydrolase YciA (EC 3.1.2.-) (Protein P14)	
+ACHC5	*Acyl-CoA Hydrolase (C5:0)	3.1.2.20		P0A8Z0	Acyl-CoA thioester hydrolase YciA (EC 3.1.2.-) (Protein P14)	
+GLYOX	Hydroxyacylglutathione hydrolase	3.1.2.6		P0AC84	Hydroxyacylglutathione hydrolase GloB (EC 3.1.2.6) (Glyoxalase II) (Glx II)	
+GLYOX	Hydroxyacylglutathione hydrolase	3.1.2.6		P75849	Hydroxyacylglutathione hydrolase GloC (EC 3.1.2.6) (Accessory type II glyoxalase) (Glyoxalase II 2) (GlxII-2)	
+FBP	Fructose-bisphosphatase	3.1.3.11		P0A993	"Fructose-1,6-bisphosphatase class 1 (FBPase class 1) (EC 3.1.3.11) (D-fructose-1,6-bisphosphate 1-phosphohydrolase class 1)"	
+LACZ	B-galactosidase	3.2.1.108 or 3.2.1.23		P00722	Beta-galactosidase (Beta-gal) (EC 3.2.1.23) (Lactase)	
+6PGALSZ	6-phospho-beta-galactosidase	3.2.1.85		C7N8L9	6-phospho-beta-galactosidase (EC 3.2.1.85) (Beta-D-phosphogalactoside galactohydrolase) (PGALase) (P-beta-Gal) (PBG)	
+MTHFC	Methenyltetrahydrofolate cyclohydrolase	3.5.4.9		P24186	Bifunctional protein FolD [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)]	
+PPA	Inorganic diphosphatase	3.6.1.1		P0A7A9	Inorganic pyrophosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase) (PPase)	
+OADDC	Oxaloacetate decarboxylase	4.1.1.112		Q9HUU1	Oxaloacetate decarboxylase (EC 4.1.1.112)	
+PPC	Phosphoenolpyruvate carboxylase	4.1.1.31		P00864	Phosphoenolpyruvate carboxylase (PEPC) (PEPCase) (EC 4.1.1.31)	
+PPCKc	Phosphoenolpyruvate carboxykinase (ATP)	4.1.1.49		P22259	Phosphoenolpyruvate carboxykinase (ATP) (PCK) (PEP carboxykinase) (PEPCK) (EC 4.1.1.49)	
+FBA	Fructose-bisphosphate aldolase	4.1.2.13		P0A991	Fructose-bisphosphate aldolase class 1 (EC 4.1.2.13) (Fructose-bisphosphate aldolase class I) (FBP aldolase)	
+SBPA	"Sedoheptulose 1,7-bisphosphate aldolase"	4.1.2.13		P0AB71	"Fructose-bisphosphate aldolase class 2 (FBP aldolase) (FBPA) (EC 4.1.2.13) (Fructose-1,6-bisphosphate aldolase) (Fructose-bisphosphate aldolase class II) (Sedoheptulose bisphosphate aldolase)"	
+PKETF	Phosphoketolase (fructose-6-phosphate utilizing)	4.1.2.22		Q9AEM9	Xylulose-5-phosphate/fructose-6-phosphate phosphoketolase (EC 4.1.2.22) (EC 4.1.2.9)	
+DRPA	Deoxyribose-phosphate aldolase	4.1.2.4		P0A6L0	Deoxyribose-phosphate aldolase (DERA) (EC 4.1.2.4) (2-deoxy-D-ribose 5-phosphate aldolase) (Phosphodeoxyriboaldolase) (Deoxyriboaldolase)	
+TGBPA	Tagatose-bisphosphate aldolase	4.1.2.40		P0AB74	"D-tagatose-1,6-bisphosphate aldolase subunit KbaY (TBPA) (TagBP aldolase) (EC 4.1.2.40) (D-tagatose-bisphosphate aldolase class II) (Ketose 1,6-bisphosphate aldolase class II) (Tagatose-bisphosphate aldolase)"	
+H6PS	3-hexulose-6-phosphate synthase	4.1.2.43		P42405	3-hexulose-6-phosphate synthase (HPS) (EC 4.1.2.43) (D-arabino-3-hexulose-6-phosphate formaldehyde lyase) (HUMPS)	
+PKETX	Phosphoketolase (xylulose-5-phosphate utilizing)	4.1.2.9		Q9AEM9	Xylulose-5-phosphate/fructose-6-phosphate phosphoketolase (EC 4.1.2.22) (EC 4.1.2.9)	
+ICL	Isocitrate lyase	4.1.3.1		P0A9G6	Isocitrate lyase (ICL) (EC 4.1.3.1) (Isocitrase) (Isocitratase)	
+ENO	Enolase	4.2.1.11		P0A6P9	Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase)	
+4HBCOADH	4-hydroxybutanoyl-CoA dehydratase	4.2.1.120		P55792	4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase (4-BUDH) (EC 4.2.1.120) (EC 5.3.3.3) (Gamma-aminobutyrate metabolism dehydratase/isomerase)	
+VECOAH2	3-hydroxyacyl-CoA dehydratase (3-hydroxyheptanoyl-CoA)	4.2.1.134 or 4.2.1.55		A0A6N7J249	Enoyl-CoA hydratase/isomerase family protein	
+ECOAH2	3-hydroxyacyl-CoA dehydratase (3-hydroxyhexanoyl-CoA)	4.2.1.17		A0A6N7J249	Enoyl-CoA hydratase/isomerase family protein	
+ECOAH3	3-hydroxyacyl-CoA dehydratase (3-hydroxyoctanoyl-CoA)	4.2.1.17		A0A6N7J249	Enoyl-CoA hydratase/isomerase family protein	
+FUM	Fumarase	4.2.1.2		P0AC33	"Fumarate hydratase class I, aerobic (EC 4.2.1.2) (Fumarase A) (Oxaloacetate keto--enol-isomerase) (OAAKE isomerase) (Oxaloacetate tautomerase) (EC 5.3.2.2)"	
+ACONT	Aconitate hydratase	4.2.1.3		P25516	Aconitate hydratase A (ACN) (Aconitase) (EC 4.2.1.3) (Iron-responsive protein-like) (IRP-like) (RNA-binding protein) (Stationary phase enzyme)	
+LCD	Lactoyl CoA dehydratase	4.2.1.54		G3KIM3	Lactoyl-CoA dehydratase subunit beta (EC 4.2.1.54) ((R)-lactyl-CoA dehydratase component E II) (2-hydroxybutyroyl-CoA dehydratase)	
+LCD	Lactoyl CoA dehydratase	4.2.1.54		G3KIM4	Lactoyl-CoA dehydratase subunit alpha (EC 4.2.1.54) ((R)-lactyl-CoA dehydratase component E II) (2-hydroxybutyroyl-CoA dehydratase)	
+ECOAH1	3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA)	4.2.1.55		A0A6N7J249	Enoyl-CoA hydratase/isomerase family protein	
+VECOAH	3-hydroxyacyl-CoA dehydratase (3-hydroxypentanoyl-CoA)	4.2.1.55		A0A6N7J249	Enoyl-CoA hydratase/isomerase family protein	
+MGSA	Methylglyoxal synthase	4.2.3.3		P0A731	Methylglyoxal synthase (MGS) (EC 4.2.3.3)	
+LGTHL	Lactoylglutathione lyase	4.4.1.5		P0AC81	Lactoylglutathione lyase (EC 4.4.1.5) (Aldoketomutase) (Glyoxalase I) (Glx I) (Ketone-aldehyde mutase) (Methylglyoxalase) (S-D-lactoylglutathione methylglyoxal lyase)	
+LacR	Lactate racemase	5.1.2.1		F9USS9	Lactate racemase (Lar) (EC 5.1.2.1) (Lactate racemization operon protein LarA)	
+RPE	Ribulose 5-phosphate 3-epimerase	5.1.3.1		P0AG07	Ribulose-phosphate 3-epimerase (EC 5.1.3.1) (Pentose-5-phosphate 3-epimerase) (PPE) (R5P3E)	
+UDPG4E	UDPglucose 4-epimerase	5.1.3.2		P09147	UDP-glucose 4-epimerase (EC 5.1.3.2) (Galactowaldenase) (UDP-galactose 4-epimerase)	
+GALM	Aldose 1-epimerase	5.1.3.3		P0A9C3	Aldose 1-epimerase (EC 5.1.3.3) (Galactose mutarotase) (Type-1 mutarotase)	
+MME	Methylmalonyl-CoA epimerase	5.1.99.1		Q3IZP4	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase (EC 5.1.99.-) (EC 5.1.99.1)	
+TPI	Triose-phosphate isomerase	5.3.1.1		P0A858	Triosephosphate isomerase (TIM) (TPI) (EC 5.3.1.1) (Triose-phosphate isomerase)	
+GAL6PI	Galactose-6-phosphate isomerase	5.3.1.26		P23494	Galactose-6-phosphate isomerase subunit LacA (EC 5.3.1.26)	
+GAL6PI	Galactose-6-phosphate isomerase	5.3.1.26		P23495	Galactose-6-phosphate isomerase subunit LacB (EC 5.3.1.26)	
+AH6PI	Arabino-3-hexulose-6-P Isomerase	5.3.1.27		P42404	3-hexulose-6-phosphate isomerase (EC 5.3.1.27) (6-phospho-3-hexuloisomerase) (PHI)	
+XYLI1	Xylose isomerase	5.3.1.5		P00944	Xylose isomerase (EC 5.3.1.5) (D-xylulose keto-isomerase)	
+RPI	Ribose-5-phosphate isomerase	5.3.1.6		P0A7Z0	Ribose-5-phosphate isomerase A (EC 5.3.1.6) (Phosphoriboisomerase A) (PRI)	
+G6PI	Glucose 6 phosphate isomerase	5.1.3.15		Q8ZPV9	Putative glucose-6-phosphate 1-epimerase (EC 5.1.3.15) (Putative D-hexose-6-phosphate mutarotase)	
+PGI	Glucose-6-phosphate isomerase	5.3.1.9		P0A6T1	Glucose-6-phosphate isomerase (GPI) (EC 5.3.1.9) (Phosphoglucose isomerase) (PGI) (Phosphohexose isomerase) (PHI)	
+PGM	Phosphoglycerate mutase	5.4.2.11 or 5.4.2.12		P62707	"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase (BPG-dependent PGAM) (PGAM) (Phosphoglyceromutase) (dPGM) (EC 5.4.2.11)"	
+PGMT	Phosphoglucomutase	5.4.2.6		P77366	Beta-phosphoglucomutase (Beta-PGM) (EC 5.4.2.6)	
+PPM	Phosphopentomutase	5.4.2.7�		P0A6K6	Phosphopentomutase (EC 5.4.2.7) (Phosphodeoxyribomutase)	
+MMM2	Methylmalonyl-CoA mutase	5.4.99.2		P27253	Methylmalonyl-CoA mutase (MCM) (EC 5.4.99.2)	
+ACS	Acetyl-CoA synthetase	6.2.1.1		P27550	Acetyl-coenzyme A synthetase (AcCoA synthetase) (Acs) (EC 6.2.1.1) (Acetate--CoA ligase) (Acyl-activating enzyme)	
+SUCOASc	Succinate Coa ligase ADP forming	6.2.1.5		P0AGE9	Succinate--CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha)	
+SUCOASc	Succinate Coa ligase ADP forming	6.2.1.5		P0A836	Succinate--CoA ligase [ADP-forming] subunit beta (EC 6.2.1.5) (Succinyl-CoA synthetase subunit beta) (SCS-beta)	
+FTHFLi	Formate-tetrahydrofolate ligase	6.3.4.3		P21164	Formate--tetrahydrofolate ligase (EC 6.3.4.3) (Formyltetrahydrofolate synthetase) (FHS) (FTHFS)	
+PC	Pyruvate carboxylase	6.4.1.1		A0A0H3JRU9	Pyruvate carboxylase (EC 6.4.1.1)	
+ACCOAC	Acetyl-CoA carboxylase	6.4.1.2		P0ABD5	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha (ACCase subunit alpha) (Acetyl-CoA carboxylase carboxyltransferase subunit alpha) (EC 2.1.3.15)	
+ACCOAC	Acetyl-CoA carboxylase	6.4.1.2		P0A9Q5	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta (ACCase subunit beta) (Acetyl-CoA carboxylase carboxyltransferase subunit beta) (EC 2.1.3.15)	
+PPCOAC	Propionyl-CoA carboxylase	6.4.1.3		Q5LUF3	Propionyl-CoA carboxylase alpha chain (EC 6.4.1.3)	
+ATPS4r	*ATP Synthase	7.1.2.2		P0ABB0	ATP synthase subunit alpha (EC 7.1.2.2) (ATP synthase F1 sector subunit alpha) (F-ATPase subunit alpha)	
+ATPS4r	*ATP Synthase	7.1.2.2		P0ABB4	ATP synthase subunit beta (EC 7.1.2.2) (ATP synthase F1 sector subunit beta) (F-ATPase subunit beta)	
+ATPS4r	*ATP Synthase	7.1.2.2		P0ABA6	ATP synthase gamma chain (ATP synthase F1 sector gamma subunit) (F-ATPase gamma subunit)	
+ATPS4r	*ATP Synthase	7.1.2.2		P0ABA4	ATP synthase subunit delta (ATP synthase F(1) sector subunit delta) (F-type ATPase subunit delta) (F-ATPase subunit delta)	
+ATPS4r	*ATP Synthase	7.1.2.2		P0A6E6	ATP synthase epsilon chain (ATP synthase F1 sector epsilon subunit) (F-ATPase epsilon subunit)	
+XYLabc	D-xylose transport via ABC system	7.5.2.10		P37388	Xylose import ATP-binding protein XylG (EC 7.5.2.10)	
+XYLabc	D-xylose transport via ABC system	7.5.2.10		P0AGI4	Xylose transport system permease protein XylH	
+XYLabc	D-xylose transport via ABC system	7.5.2.10		P37387	D-xylose-binding periplasmic protein	
+HEX1	Hexokinase (D-glucose:ATP)	2.7.1.1		B8I0V5	Hexokinase	
+LDH_L	L-lactate dehydrogenase	1.1.1.27		P00343	L-lactate dehydrogenase (L-LDH) (EC 1.1.1.27)	
+PGL	6-phosphogluconolactonase	3.1.1.31		P52697	6-phosphogluconolactonase (6-P-gluconolactonase) (Pgl) (EC 3.1.1.31)	
+EDD	6-phosphogluconate dehydratase	4.2.1.12		P0ADF6	Phosphogluconate dehydratase (EC 4.2.1.12) (6-phosphogluconate dehydratase) (Entner-Doudoroff dehydrase)	
+EDA	2-dehydro-3-deoxy-phosphogluconate aldolase	4.1.2.14		P0A955	KHG/KDPG aldolase [Includes: 4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) (2-keto-4-hydroxyglutarate aldolase) (KHG-aldolase); 2-dehydro-3-deoxy-phosphogluconate aldolase (EC 4.1.2.14) (2-keto-3-deoxy-6-phosphogluconate aldolase) (KDPG-aldolase) (Phospho-2-dehydro-3-deoxygluconate aldolase) (Phospho-2-keto-3-deoxygluconate aldolase)]	
+PYRDC	Pyruvate decarboxylase	4.1.1.1		Q8L388	Pyruvate decarboxylase (EC 4.1.1.1)	
+LCTA	Lactate CoA transferase (acetyl-CoA)	2.8.3.1		G0VND6	Coenzyme A transferase	
+G6PDH2c	Glucose 6-Phosphate Dehydrogenase	1.1.1.49 or 1.1.1.363		P11411	Glucose-6-phosphate 1-dehydrogenase (G6PD) (EC 1.1.1.363) (Glucose-6-phosphate dehydrogenase (NAD(P)(+)))	
+PEPCK_re	Phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32		Q6F494	Phosphoenolpyruvate carboxykinase [GTP] (PEP carboxykinase) (PEPCK) (EC 4.1.1.32) (GTP-dependent phosphoenolpyruvate carboxykinase) (GTP-PEPCK) (PckTk)	
+FRDx	Fumarate Reductase NADH	1.3.1.6 or 1.3.5.4	Yes	P17412	Fumarate reductase flavoprotein subunit (EC 1.3.5.1) (Quinol-fumarate reductase flavoprotein subunit) (QFR flavoprotein subunit)	
+FRDx	Fumarate Reductase NADH	1.3.1.6 or 1.3.5.4	Yes	P17596	Fumarate reductase iron-sulfur subunit (EC 1.3.5.1) (Quinol-fumarate reductase iron-sulfur subunit) (QFR iron-sulfur subunit)	
+FRDx	Fumarate Reductase NADH	1.3.1.6 or 1.3.5.4	Yes	P17413	Fumarate reductase cytochrome b subunit (Quinol-fumarate reductase cytochrome b subunit) (QFR cytochrome b subunit)	
+NDPK1	Nucleoside-diphosphate kinase (ATP:GDP)	2.7.4.6		P0A763	Nucleoside diphosphate kinase (NDK) (NDP kinase) (EC 2.7.4.6) (Nucleoside-2-P kinase)	
+HYDABC	Electron confurcating hydrogenase	1.12.1.4	Yes	O52683	Fe-hydrogenase alpha subunit	
+HYDABC	Electron confurcating hydrogenase	1.12.1.4	Yes	O52682	Fe-hydrogenase beta subunit	
+HYDABC	Electron confurcating hydrogenase	1.12.1.4	Yes	O52681	Fe-hydrogenase gamma subunit	

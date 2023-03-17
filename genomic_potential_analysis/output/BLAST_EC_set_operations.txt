@@ -1,0 +1,165 @@
+A: Annotation informed 
+B: BLAST based 
+AB: Both 
+Blank: neither
+
+BiGG Models Name	Blongum	Fsuccinogenes	Ckluyveri	Zmobilis	Melsdenii	Lhilgardii	Efaecalis	Nstercoris
+Alcohol dehydrogenase (ethanol)	AB		A	AB	A	AB	A	
+3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA)	B		AB		AB	B		B
+3-hydroxybutyryl-CoA dehydrogenase (NADP)	B		AB		AB	B		B
+3-hydroxyacyl-CoA dehydrogenase (3-oxohexanoyl-CoA)	B		AB		AB	B		B
+3-hydroxyacyl-CoA dehydrogenase (3-oxooctanoyl-CoA)	B		AB		AB	B		B
+3-hydroxyacyl-CoA dehydrogenase (3-oxovaleryl-CoA)	B		AB		AB	B		B
+D-lactate dehydrogenase	B	B	B	AB	B	B	B	B
+Phosphogluconate dehydrogenase (NAD)	B				B	B	B	B
+Glucose 6-phosphate dehydrogenase	B			B		AB	B	B
+Malate dehydrogenase	B	AB				A	B	A
+Malic Enzyme (NAD)				B	B	B		B
+Malic enzyme (NADP)		B	A					
+Isocitrate dehydrogenase (NAD)	AB	AB	A	B	B	B		B
+Isocitrate dehydrogenase (NADP)	AB	AB	A	B	B	B		B
+Phosphogluconate dehydrogenase	AB				AB	AB	AB	
+Gamma-hydroxybutyrate dehydrogenase (NADH)					B	B	B	B
+Glycerol-3-phosphate dehydrogenase (NAD)	B	B	AB	B	AB	AB	AB	B
+Glycerol-3-phosphate dehydrogenase (NADP)	B	B	AB	B	AB	AB	AB	B
+(FeFe)-hydrogenase, cytoplasm			A					
+Ferredoxin---NADP+ reductase				B				
+Acetaldehyde dehydrogenase (acetylating)	A		A			A	A	
+Pyruvate dehdyrogenase								
+2-Oxoglutarate dehydrogenase								B
+Glyceraldehyde-3-phosphate dehydrogenase	B	B	B	B	B	B	B	B
+Lactaldehyde dehydrogenase		B		B	B	B	B	B
+Succinate-semialdehyde dehydrogenase (NAD)			B	B	B	B	B	B
+Aldehyde dehydrogenase (acetaldehyde, NAD)	B		B		B	B	B	
+Aldehyde dehydrogenase formaldehyde NAD								
+Succinate-semialdehyde dehydrogenase (NADP)		B		B	B	B	B	B
+*Pyruvate flavodoxin oxidoreductase		B	B		B		B	
+2-oxoglutarate ferredoxin oxidoreductase								
+Carbon monoxide dehydrogenase / acetyl-CoA synthase 2			AB					
+Electron bifurcating lactate dehydrogenase			B	B	B			
+Acryloyl-CoA reductase							B	
+Succinate dehydrogenase								
+Acyl-CoA dehydrogenase (butanoyl-CoA)			B	B	B			
+Acyl-CoA dehydrogenase (hexanoyl-CoA)			B	B	B			
+Acyl-CoA dehydrogenase (octanoyl-CoA)			B	B	B			
+Acyl-CoA dehydrogenase (pentanoyl-CoA)			B	B	B			
+Acyl-CoA dehydrogenase (heptanoyl-CoA)			B	B	B			
+5,10-methylenetetrahydrofolate reductase (NADH)	AB	AB	A	AB	AB	AB		AB
+FMN reductase NADPH dependent								
+FMN reductase								
+Methylenetetrahydrofolate dehydrogenase (NADP)	B	AB	B	AB	B	B	B	AB
+NAD(P) transhydrogenase	B		B	B	B	B	B	AB
+Methyltetrahydrofolate:corrinoid/iron-sulfur protein methyltransferase (MeTr)			B	B	B			B
+Methylmalonyl-CoA Carboxyltransferase								
+Transketolase 1	AB	B		AB	AB		AB	AB
+Transketolase 2	AB	B		AB	AB		AB	AB
+Transaldolase	A							A
+Hexanoyl-CoA:acetyl-CoA C-acyltransferase			B		B	AB	B	AB
+Acetyl-CoA C-acyltransferase (3-oxovaleryl-CoA)			B		B	AB	B	AB
+Acetyl-CoA synthase		B	B					B
+Pyruvate formate lyase	AB	AB	AB	AB			AB	
+Phosphotransacetylase	A	A	A		A	A	A	AB
+Acetyl-CoA C-acetyltransferase			B		B	B	B	B
+Butanoyl-CoA:acetyl-CoA C-butanoyltransferase			B		B	AB	B	AB
+Acetyl-CoA C-acyltransferase (3-oxoheptanoyl-CoA)			B		B	AB	B	AB
+Citrate synthase	B	B	B	B	B	B		AB
+ATP Citrate Lyase							B	
+Malate synthase								
+Aspartate transaminase				AB	B			
+Glucokinase	A	B		AB		A	A	AB
+Phosphoenolpyruvate:glycerone phosphotransferase					A		A	A
+Dihydroxyacetone phosphotransferase					A		A	A
+Tagatose-6-phosphate kinase					B		AB	
+Deoxyribokinase	B				B	AB	AB	
+Ribokinase	B				B	AB	AB	
+Xylulokinase	B	B			B	AB	B	B
+NAD kinase	AB	B	B	A	B	AB	A	AB
+Dihydroxyacetone kinase					B		B	B
+Glycerol kinase					AB	AB	AB	AB
+Pyruvate kinase	AB		AB	AB	AB	AB	AB	AB
+Galactokinase	AB					AB	AB	
+Phosphofructokinase		A	B		B		B	
+Acetate kinase	B	B	B		B	AB	B	B
+Phosphoglycerate kinase	B	B	B	B	B	B	B	B
+D-glucose transport via PEP:Pyr PTS					B		B	
+Adenylate kinase	AB	B	AB	AB	AB	AB	AB	AB
+UDPglucose--hexose-1-phosphate uridylyltransferase	AB					A	A	
+Phosphoenolpyruvate synthase			A		AB			AB
+Propionate CoA Transferase		B	B		A			
+Succinyl-CoA:acetate CoA transferase		B	B					
+Propanoyl-CoA: succinate CoA-transferase		B	B					
+*CoA Transferase (C4:0-C2:0)			B		B			
+*CoA Transferase (C5:0-C2:0)			B		B			
+*CoA Transferase (C6:0-C2:0)			B		B			
+*CoA Transferase (C7:0-C2:0)			B		B			
+CoA Transferase (C8:0-C2:0)			B		B			
+*Acyl-CoA Hydrolase (C6:0)		B		B				
+*Acyl-CoA Hydrolase (C7:0)		B		B				
+*Acyl-CoA Hydrolase (C8:0)		B		B				
+*Acyl-CoA Hydrolase (C4:0)		B		B				
+*Acyl-CoA Hydrolase (C5:0)		B		B				
+Hydroxyacylglutathione hydrolase				AB				AB
+Fructose-bisphosphatase			A	A	A			AB
+B-galactosidase	B	B		A			AB	
+6-phospho-beta-galactosidase					B		AB	
+Methenyltetrahydrofolate cyclohydrolase	B	AB	B	AB	B	B	B	AB
+Inorganic diphosphatase	B	B	A	AB	A	A	A	A
+Oxaloacetate decarboxylase						B	A	
+Phosphoenolpyruvate carboxylase	AB			AB		A		AB
+Phosphoenolpyruvate carboxykinase (ATP)			AB		AB			
+Fructose-bisphosphate aldolase	A		A	AB	A			A
+Sedoheptulose 1,7-bisphosphate aldolase	AB		A	A	A		B	A
+Phosphoketolase (fructose-6-phosphate utilizing)	B					B		
+Deoxyribose-phosphate aldolase			AB			A	A	
+Tagatose-bisphosphate aldolase		B	B		B		AB	B
+3-hexulose-6-phosphate synthase						B	B	
+Phosphoketolase (xylulose-5-phosphate utilizing)	B					B		
+Isocitrate lyase								
+Enolase	AB	AB	AB	AB	AB	AB	AB	AB
+4-hydroxybutanoyl-CoA dehydratase			B		B			
+3-hydroxyacyl-CoA dehydratase (3-hydroxyheptanoyl-CoA)			B		B	B	B	
+3-hydroxyacyl-CoA dehydratase (3-hydroxyhexanoyl-CoA)			B		B	B	B	
+3-hydroxyacyl-CoA dehydratase (3-hydroxyoctanoyl-CoA)			B		B	B	B	
+Fumarase		B	AB	B	A			A
+Aconitate hydratase	AB	AB	A	AB		AB		B
+Lactoyl CoA dehydratase					B			
+3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA)			B		B	B	B	
+3-hydroxyacyl-CoA dehydratase (3-hydroxypentanoyl-CoA)			B		B	B	B	
+Methylglyoxal synthase							AB	
+Lactoylglutathione lyase				B	B		B	AB
+Lactate racemase					B			
+Ribulose 5-phosphate 3-epimerase	AB	AB	AB	AB	AB	AB	AB	AB
+UDPglucose 4-epimerase	AB	AB	AB		AB	AB	AB	AB
+Aldose 1-epimerase				B		B	B	
+Methylmalonyl-CoA epimerase								
+Triose-phosphate isomerase	AB	AB	AB	AB	AB	AB	AB	AB
+Galactose-6-phosphate isomerase			B	B	B		AB	
+Arabino-3-hexulose-6-P Isomerase						B		
+Xylose isomerase	AB					AB		
+Ribose-5-phosphate isomerase	AB	AB	A	A	A	AB	AB	AB
+Glucose 6 phosphate isomerase	B							B
+Glucose-6-phosphate isomerase	AB	AB	A	AB		A	A	AB
+Phosphoglycerate mutase	AB	A	A	AB	A	AB	AB	AB
+Phosphoglucomutase			B		B	AB	AB	
+Phosphopentomutase			B		B	B	B	
+Methylmalonyl-CoA mutase								
+Acetyl-CoA synthetase		B	B					AB
+Succinate Coa ligase ADP forming	AB			AB				AB
+Formate-tetrahydrofolate ligase	AB		AB	AB	AB	AB	AB	
+Pyruvate carboxylase			AB		AB		AB	
+Acetyl-CoA carboxylase			AB	AB			AB	AB
+Propionyl-CoA carboxylase								
+*ATP Synthase	A	A	A	A	A		A	AB
+D-xylose transport via ABC system	B							
+Hexokinase (D-glucose:ATP)					B			
+L-lactate dehydrogenase	AB	B	AB		B	AB	AB	
+6-phosphogluconolactonase				A				A
+6-phosphogluconate dehydratase	B	B	B	AB	B	B		B
+2-dehydro-3-deoxy-phosphogluconate aldolase		B		AB	AB	AB	B	
+Pyruvate decarboxylase				B				
+Lactate CoA transferase (acetyl-CoA)					AB			
+Glucose 6-Phosphate Dehydrogenase	B			B		AB	B	B
+Phosphoenolpyruvate carboxykinase (GTP)		AB						
+Fumarate Reductase NADH								
+Nucleoside-diphosphate kinase (ATP:GDP)		AB	AB				AB	AB
+Electron confurcating hydrogenase								

@@ -1,0 +1,9 @@
+D-glucose_fermentation_pathways	Homolactic	Heterolactic_phosphoketolase	Heterolactic_bifid_shunt	Ethanolgenesis	Chain-elongation
+Zmobilis	0	0	0	0	0
+Nstercoris	0	0	0	0	0
+Melsdenii	0	0	0	0	0
+Ckluyveri	0	0	0	0	0
+Efaecalis	0	0	0	0	0
+Blongum	0	0	0	0	0
+Fsuccinogenes	0	0	0	0	0
+Lhilgardii	0	0	0	0	0

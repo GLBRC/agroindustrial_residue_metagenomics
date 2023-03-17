@@ -1,0 +1,173 @@
+BiGG Models Name	Zmobilis	Nstercoris	Melsdenii	Ckluyveri	Efaecalis	Blongum	Fsuccinogenes	Lhilgardii
+*Electron Bifurcating Acyl-CoA Dehydrogenase (C4)	1	0	1	1	0	0	0	0
+*Electron Bifurcating Acyl-CoA Dehydrogenase (C6)	1	0	1	1	0	0	0	0
+*Electron Bifurcating Acyl-CoA Dehydrogenase (C8)	1	0	1	1	0	0	0	0
+*Electron Bifurcating Acyl-CoA dehydrogenase (pentanoyl-CoA)	1	0	1	1	0	0	0	0
+*Electron Bifurcating Acyl-CoA dehydrogenase (heptanoyl-CoA)	1	0	1	1	0	0	0	0
+*Hydroxy-Acyl-CoA Thioesterase	0	0	1	1	1	0	0	0
+Energy conserving hydrogenase	0	0	0	0	0	0	0	0
+*Ferredoxin:NAD oxidoreductase (2 protons translocated)	0	0	1	0	0	0	0	0
+Lactose transport via PEP:Pyr PTS	0	0	0	0	1	0	0	0
+Lactose:galactose antiporter	0	0	0	0	0	1	0	1
+Lactose transport via proton symport	0	0	0	0	0	1	0	1
+4-hydroxybutyrate coenzyme a transferase	0	0	1	1	0	0	0	0
+D galactose transport via proton symport	1	0	1	1	0	1	1	1
+Alcohol dehydrogenase (ethanol)	1	0	0	0	0	1	0	1
+3-hydroxyacyl-CoA dehydrogenase (acetoacetyl-CoA)	0	1	1	1	0	1	0	1
+3-hydroxybutyryl-CoA dehydrogenase (NADP)	0	1	1	1	0	1	0	1
+3-hydroxyacyl-CoA dehydrogenase (3-oxohexanoyl-CoA)	0	1	1	1	0	1	0	1
+3-hydroxyacyl-CoA dehydrogenase (3-oxooctanoyl-CoA)	0	1	1	1	0	1	0	1
+3-hydroxyacyl-CoA dehydrogenase (3-oxovaleryl-CoA)	0	1	1	1	0	1	0	1
+D-lactate dehydrogenase	1	1	1	1	1	1	1	1
+Phosphogluconate dehydrogenase (NAD)	0	1	1	0	1	1	0	1
+Glucose 6-phosphate dehydrogenase	1	1	0	0	1	1	0	1
+Malate dehydrogenase	0	0	0	0	1	1	1	0
+Malic Enzyme (NAD)	1	1	1	0	0	0	0	1
+Malic enzyme (NADP)	0	0	0	0	0	0	1	0
+Isocitrate dehydrogenase (NAD)	1	1	1	0	0	1	1	1
+Isocitrate dehydrogenase (NADP)	1	1	1	0	0	1	1	1
+Phosphogluconate dehydrogenase	0	0	1	0	1	1	0	1
+Gamma-hydroxybutyrate dehydrogenase (NADH)	0	1	1	0	1	0	0	1
+Glycerol-3-phosphate dehydrogenase (NAD)	1	1	1	1	1	1	1	1
+Glycerol-3-phosphate dehydrogenase (NADP)	1	1	1	1	1	1	1	1
+(FeFe)-hydrogenase, cytoplasm	0	0	0	0	0	0	0	0
+Ferredoxin---NADP+ reductase	1	0	0	0	0	0	0	0
+Acetaldehyde dehydrogenase (acetylating)	0	0	0	0	0	0	0	0
+Pyruvate dehdyrogenase	0	0	0	0	0	0	0	0
+2-Oxoglutarate dehydrogenase	0	1	0	0	0	0	0	0
+Glyceraldehyde-3-phosphate dehydrogenase	1	1	1	1	1	1	1	1
+Lactaldehyde dehydrogenase	1	1	1	0	1	0	1	1
+Succinate-semialdehyde dehydrogenase (NAD)	1	1	1	1	1	0	0	1
+Aldehyde dehydrogenase (acetaldehyde, NAD)	0	0	1	1	1	1	0	1
+Aldehyde dehydrogenase formaldehyde NAD	0	0	0	0	0	0	0	0
+Succinate-semialdehyde dehydrogenase (NADP)	1	1	1	0	1	0	1	1
+*Pyruvate flavodoxin oxidoreductase	0	0	1	1	1	0	1	0
+2-oxoglutarate ferredoxin oxidoreductase	0	0	0	0	0	0	0	0
+Carbon monoxide dehydrogenase / acetyl-CoA synthase 2	0	0	0	1	0	0	0	0
+Electron bifurcating lactate dehydrogenase	1	0	1	1	0	0	0	0
+Acryloyl-CoA reductase	0	0	0	0	1	0	0	0
+Succinate dehydrogenase	0	0	0	0	0	0	0	0
+Acyl-CoA dehydrogenase (butanoyl-CoA)	1	0	1	1	0	0	0	0
+Acyl-CoA dehydrogenase (hexanoyl-CoA)	1	0	1	1	0	0	0	0
+Acyl-CoA dehydrogenase (octanoyl-CoA)	1	0	1	1	0	0	0	0
+Acyl-CoA dehydrogenase (pentanoyl-CoA)	1	0	1	1	0	0	0	0
+Acyl-CoA dehydrogenase (heptanoyl-CoA)	1	0	1	1	0	0	0	0
+5,10-methylenetetrahydrofolate reductase (NADH)	1	1	1	0	0	1	1	1
+FMN reductase NADPH dependent	0	0	0	0	0	0	0	0
+FMN reductase	0	0	0	0	0	0	0	0
+Methylenetetrahydrofolate dehydrogenase (NADP)	1	1	1	1	1	1	1	1
+NAD(P) transhydrogenase	1	1	1	1	1	1	0	1
+Methyltetrahydrofolate:corrinoid/iron-sulfur protein methyltransferase (MeTr)	1	1	1	1	0	0	0	0
+Methylmalonyl-CoA Carboxyltransferase	0	0	0	0	0	0	0	0
+Transketolase 1	1	1	1	0	1	1	1	0
+Transketolase 2	1	1	1	0	1	1	1	0
+Transaldolase	0	0	0	0	0	0	0	0
+Hexanoyl-CoA:acetyl-CoA C-acyltransferase	0	1	1	1	1	0	0	1
+Acetyl-CoA C-acyltransferase (3-oxovaleryl-CoA)	0	1	1	1	1	0	0	1
+Acetyl-CoA synthase	0	1	0	1	0	0	1	0
+Pyruvate formate lyase	1	0	0	1	1	1	1	0
+Phosphotransacetylase	0	1	0	0	0	0	0	0
+Acetyl-CoA C-acetyltransferase	0	1	1	1	1	0	0	1
+Butanoyl-CoA:acetyl-CoA C-butanoyltransferase	0	1	1	1	1	0	0	1
+Acetyl-CoA C-acyltransferase (3-oxoheptanoyl-CoA)	0	1	1	1	1	0	0	1
+Citrate synthase	1	1	1	1	0	1	1	1
+ATP Citrate Lyase	0	0	0	0	1	0	0	0
+Malate synthase	0	0	0	0	0	0	0	0
+Aspartate transaminase	1	0	1	0	0	0	0	0
+Glucokinase	1	1	0	0	0	0	1	0
+Phosphoenolpyruvate:glycerone phosphotransferase	0	0	0	0	0	0	0	0
+Dihydroxyacetone phosphotransferase	0	0	0	0	0	0	0	0
+Tagatose-6-phosphate kinase	0	0	1	0	1	0	0	0
+Deoxyribokinase	0	0	1	0	1	1	0	1
+Ribokinase	0	0	1	0	1	1	0	1
+Xylulokinase	0	1	1	0	1	1	1	1
+NAD kinase	0	1	1	1	0	1	1	1
+Dihydroxyacetone kinase	0	1	1	0	1	0	0	0
+Glycerol kinase	0	1	1	0	1	0	0	1
+Pyruvate kinase	1	1	1	1	1	1	0	1
+Galactokinase	0	0	0	0	1	1	0	1
+Phosphofructokinase	0	0	1	1	1	0	0	0
+Acetate kinase	0	1	1	1	1	1	1	1
+Phosphoglycerate kinase	1	1	1	1	1	1	1	1
+D-glucose transport via PEP:Pyr PTS	0	0	1	0	1	0	0	0
+Adenylate kinase	1	1	1	1	1	1	1	1
+UDPglucose--hexose-1-phosphate uridylyltransferase	0	0	0	0	0	1	0	0
+Phosphoenolpyruvate synthase	0	1	1	0	0	0	0	0
+Propionate CoA Transferase	0	0	0	1	0	0	1	0
+Succinyl-CoA:acetate CoA transferase	0	0	0	1	0	0	1	0
+Propanoyl-CoA: succinate CoA-transferase	0	0	0	1	0	0	1	0
+*CoA Transferase (C4:0-C2:0)	0	0	1	1	0	0	0	0
+*CoA Transferase (C5:0-C2:0)	0	0	1	1	0	0	0	0
+*CoA Transferase (C6:0-C2:0)	0	0	1	1	0	0	0	0
+*CoA Transferase (C7:0-C2:0)	0	0	1	1	0	0	0	0
+CoA Transferase (C8:0-C2:0)	0	0	1	1	0	0	0	0
+*Acyl-CoA Hydrolase (C6:0)	1	0	0	0	0	0	1	0
+*Acyl-CoA Hydrolase (C7:0)	1	0	0	0	0	0	1	0
+*Acyl-CoA Hydrolase (C8:0)	1	0	0	0	0	0	1	0
+*Acyl-CoA Hydrolase (C4:0)	1	0	0	0	0	0	1	0
+*Acyl-CoA Hydrolase (C5:0)	1	0	0	0	0	0	1	0
+Hydroxyacylglutathione hydrolase	1	1	0	0	0	0	0	0
+Fructose-bisphosphatase	0	1	0	0	0	0	0	0
+B-galactosidase	0	0	0	0	1	1	1	0
+6-phospho-beta-galactosidase	0	0	1	0	1	0	0	0
+Methenyltetrahydrofolate cyclohydrolase	1	1	1	1	1	1	1	1
+Inorganic diphosphatase	1	0	0	0	0	1	1	0
+Oxaloacetate decarboxylase	0	0	0	0	0	0	0	1
+Phosphoenolpyruvate carboxylase	1	1	0	0	0	1	0	0
+Phosphoenolpyruvate carboxykinase (ATP)	0	0	1	1	0	0	0	0
+Fructose-bisphosphate aldolase	1	0	0	0	0	0	0	0
+Sedoheptulose 1,7-bisphosphate aldolase	0	0	0	0	1	1	0	0
+Phosphoketolase (fructose-6-phosphate utilizing)	0	0	0	0	0	1	0	1
+Deoxyribose-phosphate aldolase	0	0	0	1	0	0	0	0
+Tagatose-bisphosphate aldolase	0	1	1	1	1	0	1	0
+3-hexulose-6-phosphate synthase	0	0	0	0	1	0	0	1
+Phosphoketolase (xylulose-5-phosphate utilizing)	0	0	0	0	0	1	0	1
+Isocitrate lyase	0	0	0	0	0	0	0	0
+Enolase	1	1	1	1	1	1	1	1
+4-hydroxybutanoyl-CoA dehydratase	0	0	1	1	0	0	0	0
+3-hydroxyacyl-CoA dehydratase (3-hydroxyheptanoyl-CoA)	0	0	1	1	1	0	0	1
+3-hydroxyacyl-CoA dehydratase (3-hydroxyhexanoyl-CoA)	0	0	1	1	1	0	0	1
+3-hydroxyacyl-CoA dehydratase (3-hydroxyoctanoyl-CoA)	0	0	1	1	1	0	0	1
+Fumarase	1	0	0	1	0	0	1	0
+Aconitate hydratase	1	1	0	0	0	1	1	1
+Lactoyl CoA dehydratase	0	0	1	0	0	0	0	0
+3-hydroxyacyl-CoA dehydratase (3-hydroxybutanoyl-CoA)	0	0	1	1	1	0	0	1
+3-hydroxyacyl-CoA dehydratase (3-hydroxypentanoyl-CoA)	0	0	1	1	1	0	0	1
+Methylglyoxal synthase	0	0	0	0	1	0	0	0
+Lactoylglutathione lyase	1	1	1	0	1	0	0	0
+Lactate racemase	0	0	1	0	0	0	0	0
+Ribulose 5-phosphate 3-epimerase	1	1	1	1	1	1	1	1
+UDPglucose 4-epimerase	0	1	1	1	1	1	1	1
+Aldose 1-epimerase	1	0	0	0	1	0	0	1
+Methylmalonyl-CoA epimerase	0	0	0	0	0	0	0	0
+Triose-phosphate isomerase	1	1	1	1	1	1	1	1
+Galactose-6-phosphate isomerase	1	0	1	1	1	0	0	0
+Arabino-3-hexulose-6-P Isomerase	0	0	0	0	0	0	0	1
+Xylose isomerase	0	0	0	0	0	1	0	1
+Ribose-5-phosphate isomerase	0	1	0	0	1	1	1	1
+Glucose 6 phosphate isomerase	0	1	0	0	0	1	0	0
+Glucose-6-phosphate isomerase	1	1	0	0	0	1	1	0
+Phosphoglycerate mutase	1	1	0	0	1	1	0	1
+Phosphoglucomutase	0	0	1	1	1	0	0	1
+Phosphopentomutase	0	0	1	1	1	0	0	1
+Methylmalonyl-CoA mutase	0	0	0	0	0	0	0	0
+Acetyl-CoA synthetase	0	1	0	1	0	0	1	0
+Succinate Coa ligase ADP forming	1	1	0	0	0	1	0	0
+Formate-tetrahydrofolate ligase	1	0	1	1	1	1	0	1
+Pyruvate carboxylase	0	0	1	1	1	0	0	0
+Acetyl-CoA carboxylase	1	1	0	1	1	0	0	0
+Propionyl-CoA carboxylase	0	0	0	0	0	0	0	0
+*ATP Synthase	0	1	0	0	0	0	0	0
+D-xylose transport via ABC system	0	0	0	0	0	1	0	0
+Hexokinase (D-glucose:ATP)	0	0	1	0	0	0	0	0
+L-lactate dehydrogenase	0	0	1	1	1	1	1	1
+6-phosphogluconolactonase	0	0	0	0	0	0	0	0
+6-phosphogluconate dehydratase	1	1	1	1	0	1	1	1
+2-dehydro-3-deoxy-phosphogluconate aldolase	1	0	1	0	1	0	1	1
+Pyruvate decarboxylase	1	0	0	0	0	0	0	0
+Lactate CoA transferase (acetyl-CoA)	0	0	1	0	0	0	0	0
+Glucose 6-Phosphate Dehydrogenase	1	1	0	0	1	1	0	1
+Phosphoenolpyruvate carboxykinase (GTP)	0	0	0	0	0	0	1	0
+Fumarate Reductase NADH	0	0	0	0	0	0	0	0
+Nucleoside-diphosphate kinase (ATP:GDP)	0	1	0	1	1	0	1	0
+Electron confurcating hydrogenase	0	0	0	0	0	0	0	0
