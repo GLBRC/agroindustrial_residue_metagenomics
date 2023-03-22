@@ -14,7 +14,10 @@ This directory generates information about the fermentative genomic potentials o
 This directory contains the script and files used to train and run the machine learning classification algorithm to classify the MAGs.
 
 ## nmds_plot
-This directory contains the script and file used to generate the Non-metric MultiDimensional Scaling (NMDS) plot used in the manuscript.
+This directory contains the script and file used to generate the Non-metric MultiDimensional Scaling (NMDS) plot used in the manuscript. Note that the figure was edited in Illustrator for publication.
+
+## hierachical_clustering_analysis
+This directory contains the script and file used to perform the hierarchical clustering analysis used in the manuscript. Note that the figure was edited in Illustrator for publication.
 
 ## Contributors
 Kevin Myers, Abel Ingle, Daniel Noguera - all at University of Wisconsin-Madison
