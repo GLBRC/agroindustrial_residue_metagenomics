@@ -17,7 +17,7 @@ This directory contains the script and files used to train and run the machine l
 This directory contains the script and file used to generate the Non-metric MultiDimensional Scaling (NMDS) plot used in the manuscript.
 
 ## Contributors
-Kevin Myers and Abel Ingle
+Kevin Myers, Abel Ingle, Daniel Noguera - all at University of Wisconsin-Madison
 
 ## Contact
 Please reach out to Kevin Myers at kmyers2@wisc.edu
