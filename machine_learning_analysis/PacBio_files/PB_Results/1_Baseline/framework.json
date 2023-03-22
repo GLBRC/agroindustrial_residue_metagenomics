@@ -1,0 +1,219 @@
+{
+    "uid": "fe289af0-2ac6-4b9f-a3f5-e7b53d754a4c",
+    "name": "1_Baseline",
+    "preprocessing": [
+        {
+            "remove_columns": [
+                "Acetaldehyde_dehydrogenase_(acetylating)",
+                "Pyruvate_dehdyrogenase",
+                "Fumarate_Reductase_NADH",
+                "Succinate_dehydrogenase",
+                "FMN_reductase_NADPH_dependent",
+                "Methylenetetrahydrofolate_dehydrogenase_(NADP)",
+                "Phosphotransacetylase",
+                "Malate_synthase",
+                "Glucokinase",
+                "Phosphoenolpyruvate-glycerone_phosphotransferase",
+                "Dihydroxyacetone_phosphotransferase",
+                "Adenylate_kinase",
+                "Fructose-bisphosphatase",
+                "Methenyltetrahydrofolate_cyclohydrolase",
+                "Isocitrate_lyase",
+                "Ribulose_5-phosphate_3-epimerase",
+                "Pentose_phosphate_pathway-_Heterolactic_fermentation_(D-lactate)-_Heterolactic_fermentation_(L-lactate)",
+                "Triose-phosphate_isomerase"
+            ],
+            "categorical_y": {
+                "Grp1_ferment_no_MCFA": 0,
+                "Grp2_intermediate_to_MCFA": 1,
+                "Grp3_ferment_to_MCFA": 2,
+                "Grp4_other": 3
+            },
+            "ml_task": "multiclass_classification",
+            "params": {
+                "columns_preprocessing": {
+                    "Acetaldehyde_dehydrogenase_(acetylating)": [
+                        "remove_column"
+                    ],
+                    "Pyruvate_dehdyrogenase": [
+                        "remove_column"
+                    ],
+                    "Fumarate_Reductase_NADH": [
+                        "remove_column"
+                    ],
+                    "Succinate_dehydrogenase": [
+                        "remove_column"
+                    ],
+                    "FMN_reductase_NADPH_dependent": [
+                        "remove_column"
+                    ],
+                    "Methylenetetrahydrofolate_dehydrogenase_(NADP)": [
+                        "remove_column"
+                    ],
+                    "Phosphotransacetylase": [
+                        "remove_column"
+                    ],
+                    "Malate_synthase": [
+                        "remove_column"
+                    ],
+                    "Glucokinase": [
+                        "remove_column"
+                    ],
+                    "Phosphoenolpyruvate-glycerone_phosphotransferase": [
+                        "remove_column"
+                    ],
+                    "Dihydroxyacetone_phosphotransferase": [
+                        "remove_column"
+                    ],
+                    "Adenylate_kinase": [
+                        "remove_column"
+                    ],
+                    "Fructose-bisphosphatase": [
+                        "remove_column"
+                    ],
+                    "Methenyltetrahydrofolate_cyclohydrolase": [
+                        "remove_column"
+                    ],
+                    "Isocitrate_lyase": [
+                        "remove_column"
+                    ],
+                    "Ribulose_5-phosphate_3-epimerase": [
+                        "remove_column"
+                    ],
+                    "Pentose_phosphate_pathway-_Heterolactic_fermentation_(D-lactate)-_Heterolactic_fermentation_(L-lactate)": [
+                        "remove_column"
+                    ],
+                    "Triose-phosphate_isomerase": [
+                        "remove_column"
+                    ]
+                },
+                "target_preprocessing": [
+                    "na_exclude",
+                    "categorical_to_int"
+                ],
+                "ml_task": "multiclass_classification"
+            }
+        }
+    ],
+    "learners": [
+        {
+            "library_version": "1.0.2",
+            "algorithm_name": "Baseline Classifier",
+            "algorithm_short_name": "Baseline",
+            "uid": "3c7aa125-f216-4309-926b-b33edc9b5746",
+            "params": {
+                "model_type": "Baseline",
+                "ml_task": "multiclass_classification",
+                "n_jobs": -1,
+                "seed": 1235,
+                "num_class": 4,
+                "explain_level": 2
+            },
+            "name": "learner_fold_0"
+        }
+    ],
+    "params": {
+        "additional": {
+            "max_steps": 1,
+            "max_rows_limit": null,
+            "max_cols_limit": null
+        },
+        "preprocessing": {
+            "columns_preprocessing": {
+                "Acetaldehyde_dehydrogenase_(acetylating)": [
+                    "remove_column"
+                ],
+                "Pyruvate_dehdyrogenase": [
+                    "remove_column"
+                ],
+                "Fumarate_Reductase_NADH": [
+                    "remove_column"
+                ],
+                "Succinate_dehydrogenase": [
+                    "remove_column"
+                ],
+                "FMN_reductase_NADPH_dependent": [
+                    "remove_column"
+                ],
+                "Methylenetetrahydrofolate_dehydrogenase_(NADP)": [
+                    "remove_column"
+                ],
+                "Phosphotransacetylase": [
+                    "remove_column"
+                ],
+                "Malate_synthase": [
+                    "remove_column"
+                ],
+                "Glucokinase": [
+                    "remove_column"
+                ],
+                "Phosphoenolpyruvate-glycerone_phosphotransferase": [
+                    "remove_column"
+                ],
+                "Dihydroxyacetone_phosphotransferase": [
+                    "remove_column"
+                ],
+                "Adenylate_kinase": [
+                    "remove_column"
+                ],
+                "Fructose-bisphosphatase": [
+                    "remove_column"
+                ],
+                "Methenyltetrahydrofolate_cyclohydrolase": [
+                    "remove_column"
+                ],
+                "Isocitrate_lyase": [
+                    "remove_column"
+                ],
+                "Ribulose_5-phosphate_3-epimerase": [
+                    "remove_column"
+                ],
+                "Pentose_phosphate_pathway-_Heterolactic_fermentation_(D-lactate)-_Heterolactic_fermentation_(L-lactate)": [
+                    "remove_column"
+                ],
+                "Triose-phosphate_isomerase": [
+                    "remove_column"
+                ]
+            },
+            "target_preprocessing": [
+                "na_exclude",
+                "categorical_to_int"
+            ],
+            "ml_task": "multiclass_classification"
+        },
+        "validation_strategy": {
+            "validation_type": "split",
+            "train_ratio": 0.75,
+            "shuffle": true,
+            "stratify": true,
+            "X_path": "AutoML_2/X.data",
+            "y_path": "AutoML_2/y.data",
+            "results_path": "AutoML_2"
+        },
+        "learner": {
+            "model_type": "Baseline",
+            "ml_task": "multiclass_classification",
+            "n_jobs": -1,
+            "seed": 1235,
+            "num_class": 4,
+            "explain_level": 2
+        },
+        "automl_random_state": 1234,
+        "ml_task": "multiclass_classification",
+        "explain_level": 2,
+        "name": "1_Baseline",
+        "status": "initialized",
+        "final_loss": null,
+        "train_time": null,
+        "data_type": "original",
+        "max_time_for_learner": 60.0
+    },
+    "saved": [
+        "1_Baseline/learner_fold_0.baseline"
+    ],
+    "predictions_fname": "1_Baseline/predictions_validation.csv",
+    "metric_name": "logloss",
+    "final_loss": 1.3745451929083752,
+    "train_time": 0.27339696884155273,
+    "is_stacked": false
+}
