@@ -8,7 +8,7 @@ This repository contains all scripts and example files referenced in _Comparison
 The different scripts are contained within different directories. Each directory has its own README to explain the files within.
 
 ## genomic_potential_analysis
-This directory generates information about the fermentative genomic potentials of user-provided organisms. It infers the presence / absence of proteins, enzymes, and pathways commonly identified in fermentative metabolisms of self-assembled anaerobic microbiomes fed agroindustrial residues. Outputs include Boolean matrices wherein 1's and 0's indicate the presences and absences, respectively, of coding regions for proteins, enzymes, and pathways for every genome queried; comparisons of BLAST based and NCBI annotation informed analyses; and all supporting information.
+This directory generates information about the fermentative genomic potentials of user-provided organisms. It infers the presence / absence of proteins and enzymes identified in fermentative metabolism of self-assembled anaerobic microbiomes fed agroindustrial residues. Outputs include Boolean matrices wherein 1's and 0's indicate the presences and absences, respectively, of coding regions for proteins and enzymes for every genome queried; comparisons of BLAST based and NCBI annotation informed analyses; and all supporting information.
 
 ## machine_learning_analysis
 This directory contains the script and files used to train and run the machine learning classification algorithm to classify the MAGs.
