@@ -13,18 +13,20 @@ Requires pandas, numpy, and AutoML python modules
 
 `python auotML.py`
 
-## PacBio Samples
+## PacBio_files
 The input and output files for the MAGs assembled from PacBio sequence data:
 
  - x_train.txt = training set data
  - y_train.txt = training set classifications
  - x_test.txt = test data for PacBio MAGs
  - y_predicted_PacBio.txt = predicted classification for the PacBio MAGs
+ - PB_Results directory = all the results of the autoML.py for analysis of PacBio MAGs
 
-## Illumina Samples
+## Illumina_files
 The input and output files for the MAGs assembled from Illumina sequence data:
 
  - x_train.txt = training set data
  - y_train.txt = training set classifications
  - x_test.txt = test data for Illumina MAGs
  - y_predicted_illumina.txt = predicted classification for the Illumina MAGs
+ - Illumina_Results directory = all the results of the autoML.py for analysis of Illumina MAGs
