@@ -19,6 +19,10 @@ This directory contains the script and file used to generate the Non-metric Mult
 ## hierachical_clustering_analysis
 This directory contains the script and file used to perform the hierarchical clustering analysis used in the manuscript. Note that the figure was edited in Illustrator for publication.
 
+## etfB_phylogenetic_analysis
+This directory contains the script and files used to align the EtfB homologs from MAGs in the Intermediate Chain Elongators and Carbohydrate Chain Elongators groups and construct the phylogenetic tree based on this 
+alignment.
+
 ## Contributors
 Kevin Myers, Abel Ingle, Daniel Noguera - all at University of Wisconsin-Madison
 
