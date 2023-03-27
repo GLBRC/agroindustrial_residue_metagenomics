@@ -60,3 +60,8 @@ ggplot()+
         panel.grid.minor = element_blank(),
         plot.background = element_blank(),
         plot.title = element_text())
+
+plot(nmds)
+ordiellipse(nmds, groups=nmds_data$Researcher_Reactor)
+
+#combine plots in illustrator
