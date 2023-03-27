@@ -62,6 +62,6 @@ ggplot()+
         plot.title = element_text())
 
 plot(nmds)
-ordiellipse(nmds, groups=nmds_data$Researcher_Reactor)
+ordiellipse(nmds, groups=nmds_data$Researcher_Reactor, kinds = "sd")
 
 #combine plots in illustrator
