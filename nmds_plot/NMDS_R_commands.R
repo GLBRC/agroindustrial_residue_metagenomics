@@ -75,6 +75,9 @@ ordiellipse(nmds, groups=nmds_data$Researcher_Reactor, kinds = "sd")
 #perform PERMANOVA to compare reactors
 #https://data.marcoplebani.com/annotated-code-for-performing-multivariate-statistics/
 
+if (!require(pairwiseAdonis)) install_github("pmartinezarbizu/pairwiseAdonis/pairwiseAdonis")
+library(pairwiseAdonis)
+
 nmds.obs <- nmds_data[8:78]
 nmds.spp <- data.frame(Reactor=nmds_data$Researcher_Reactor)
 nmds.manova <- adonis2(nmds.obs ~ Reactor, method = "euclidean", data = nmds.spp)
