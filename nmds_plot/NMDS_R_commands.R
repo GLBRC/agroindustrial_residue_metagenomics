@@ -9,7 +9,13 @@ library(tidyverse)
 library(forcats)
 library(vegan)
 
-setwd("./example_files")
+Sys.setenv("R_REMOTES_NO_ERRORS_FROM_WARNINGS"=TRUE)
+library(devtools)
+install_github("pmartinezarbizu/pairwiseAdonis/pairwiseAdonis")
+library(pairwiseAdonis)
+
+#setwd("./example_files")
+setwd("~/Desktop/nmds_files/")
 
 data <- read.table(file = "rel_abund_allMAGS.txt", header = TRUE, sep = "\t")
 data_melt <- reshape::melt(data, id.vars=c("Rel_Abundance"))
@@ -65,3 +71,19 @@ plot(nmds)
 ordiellipse(nmds, groups=nmds_data$Researcher_Reactor, kinds = "sd")
 
 #combine plots in illustrator
+
+#perform PERMANOVA to compare reactors
+#https://data.marcoplebani.com/annotated-code-for-performing-multivariate-statistics/
+
+nmds.obs <- nmds_data[8:78]
+nmds.spp <- data.frame(Reactor=nmds_data$Researcher_Reactor)
+nmds.manova <- adonis2(nmds.obs ~ Reactor, method = "euclidean", data = nmds.spp)
+nmds.manova
+
+nmds.adonis.pw <- pairwise.adonis(x=nmds.obs, factors = nmds.spp$Reactor, sim.method = "euclidean", p.adjust.m="BH")
+nmds.adonis.pw <- as.data.frame(nmds.adonis.pw)
+nmds.adonis.pw$F.Model <- round(nmds.adonis.pw$F.Model,2)
+nmds.adonis.pw$R2 <- round(nmds.adonis.pw$R2, 2)
+nmds.adonis.pw
+
+write.table(file = "Post_hoc_PERMNOVA_results_euc_dist_BH_correction.txt", nmds.adonis.pw, sep = "\t", col.names = F, quote = F)
