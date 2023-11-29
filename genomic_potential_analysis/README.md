@@ -16,9 +16,14 @@ Note: code relies on the base names of files in 'NCBI_annotations' to match exac
 
 
 ## Usage:
-1. You can download the git repository:
+1. You can download the 'genomic_potential_analysis' directory by running the following commands:
 
-        git clone https://gitpub.wei.wisc.edu/aingle/genomic_potential_analysis.git
+        git clone --no-checkout https://github.com/GLBRC/agroindustrial_residue_metagenomics
+        cd agroindustrial_residue_metagenomics
+        git sparse-checkout init --cone
+        git sparse-checkout set genomic_potential_analysis
+        git checkout
+        cd genomic_potential_analysis
 2. You can run the primary scripts that use files already in the 'codefiles directory:
 
         python3 Blast_and_assign_function.py
